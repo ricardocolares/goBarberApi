@@ -12,3 +12,6 @@
 4)docker ps (certificar que o banco database está rodando)
 
 5)yarn dev
+6) docker start postgresDB
+7) docker start mongoDB
+8) docker start redisDB
